@@ -13,7 +13,7 @@ Today, armed with a diverse skill set and a thirst for innovation, I am ready to
 
 ### Protocol Audit Reports
 
-- [Protocol Audit Report: PasswordStore]([link_to_report](https://github.com/JJScar/my-security-reviews/blob/main/21-05-2024-PasswordStore-Report.pdf)) - This report provides a detailed analysis of the PasswordStore protocol, including findings, risk classification, and recommendations.
+- [Protocol Audit Report: PasswordStore](https://github.com/JJScar/my-security-reviews/blob/main/21-05-2024-PasswordStore-Report.pdf) - This report provides a detailed analysis of the PasswordStore protocol, including findings, risk classification, and recommendations.
 
 ### Other Projects
 
