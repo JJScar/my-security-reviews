@@ -1,0 +1,1 @@
+### [H-4] Malicious winner can forever halt the raffle
