@@ -85,6 +85,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 #-- PasswordStore.sol
 ```
 
+
 ## Roles
 - Owner: The user who can set the password and read the password.
 - Outsiders: No one else should be able to set or read the password.
