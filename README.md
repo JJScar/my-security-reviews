@@ -13,13 +13,12 @@ Today, armed with a diverse skill set and a thirst for innovation, I am ready to
 
 ### Protocol Audit Reports
 
-- [Protocol Audit Report: PasswordStore](https://github.com/JJScar/my-security-reviews/blob/main/21-05-2024-PasswordStore-Report.pdf) - This report provides a detailed analysis of the PasswordStore protocol, including findings, risk classification, and recommendations.
+None yet...
 
-### Other Projects
+### Cyfrin Pracitce Audits 
 
-- [Project 1](link_to_project_1) - Brief description of the project.
-- [Project 2](link_to_project_2) - Brief description of the project.
-- [Project 3](link_to_project_3) - Brief description of the project.
+- [PasswordStore](https://github.com/JJScar/my-security-reviews/tree/master/PasswordStore) - This report provides a detailed analysis of the PasswordStore protocol, including findings, risk classification, and recommendations.
+- [PuppyRaffle](https://github.com/JJScar/my-security-reviews/tree/master/PuppyRaffle) - Brief description of the project.
 
 ## Contact Me
 
