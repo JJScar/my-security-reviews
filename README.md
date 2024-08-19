@@ -20,10 +20,11 @@ This repository contains a series of directories, each dedicated to a specific a
 
 ## Featured Reports
 
-- **[Project XYZ Audit Report](link-to-report)**
-  - A thorough security audit of Project XYZ including vulnerability analysis and recommendations.
-- **[Smart Contract Audit for ABC](link-to-report)**
-  - Security assessment and risk analysis of the ABC smart contract.
+- **[Cyfrin Updraft Course Audits](https://github.com/JJScar/my-security-reviews/tree/master/cyfrin-course-audits)**
+  - This folder includes all of the reports I wrote as part of the Cyfrin Updraft Smart Contract Secuirty Course.
+- **[First FLights](link-to-report)**
+  - This folder includes the reports I wrote as part of CodeHawks First Flights audits.
+- **[Personal Favourites]**   
 
 ## Getting Involved
 
