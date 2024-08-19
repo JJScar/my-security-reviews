@@ -22,7 +22,7 @@ This repository contains a series of directories, each dedicated to a specific a
 
 - **[Cyfrin Updraft Course Audits](https://github.com/JJScar/my-security-reviews/tree/master/cyfrin-course-audits)**
   - This folder includes all of the reports I wrote as part of the Cyfrin Updraft Smart Contract Secuirty Course.
-- **[First FLights](link-to-report)**
+- **[First Flights](link-to-report)**
   - This folder includes the reports I wrote as part of CodeHawks First Flights audits.
 - **[Personal Favourites]**   
 
