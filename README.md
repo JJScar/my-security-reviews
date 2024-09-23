@@ -18,8 +18,8 @@ Here, you will find audit reports and findings in work I have done in courses an
 Interested in discussing security practices or have a project in need of an audit? Feel free to reach out or contribute to this repository:
 
 - **Contact:**
-- [LinkedIn](https://www.linkedin.com/in/jordan-solomon-b735b8165/)
-- [X](https://twitter.com/JJS_OnChain)
-- **Email:** jjsonchain@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/jordan-solomon-b735b8165/)
+  - [X](https://twitter.com/JJS_OnChain)
+  - **Email:** jjsonchain@gmail.com
 
 Thank you for visiting my portfolio. Security is a crucial aspect of blockchain development, and through these reports, I aim to contribute to the safer deployment of decentralized technologies.
