@@ -5,10 +5,9 @@ Here, you will find audit reports and findings in work I have done in courses an
 
 ## Featured Reports
 
-| Protocol Name | Category | Link to Report |
-| ------------- | -------- | -------------- |
-|               |          |                |
-|               |          |                |
+| Protocol Name   | Category |                                              Link to Report                                          |
+| --------------- | -------- | ---------------------------------------------------------------------------------------------------- |                 
+| Collar Protocol |   DeFi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-11-collar-protocol |                
 
 ## Full Breakdown
 - **[Cyfrin Updraft Course Audits](https://github.com/JJScar/my-security-reviews/tree/master/cyfrin-course-audits)**
