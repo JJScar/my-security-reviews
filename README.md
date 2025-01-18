@@ -14,7 +14,7 @@ Here, you will find audit reports and findings in work I have done in courses an
   - This folder includes all of the reports I wrote as part of the Cyfrin Updraft Smart Contract Secuirty Course.
 - **[First Flights](https://github.com/JJScar/my-security-reviews/tree/master/codehawks-first-flights)**
   - This folder includes the reports I wrote as part of CodeHawks First Flights audits.
-- **[Competitive Audits](link)**
+- **[Competitive Audits](https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits)**
   - This folder includes all of the reports and findings from competitive audits on different platforms.   
 - **[Personal Favourites]**   
 
