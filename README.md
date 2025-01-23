@@ -7,15 +7,16 @@ Here, you will find audit reports and findings in work I have done in courses an
 
 | Protocol Name   | Category |                                              Link to Report                                          |
 | --------------- | -------- | ---------------------------------------------------------------------------------------------------- |                 
-| Collar Protocol |   DeFi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-11-collar-protocol |                
+| Collar Protocol |   DeFi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-11-collar-protocol |  
+|    Alchemix     |   Defi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-12-alchemix |
 
 ## Full Breakdown
+- **[Competitive Audits](https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits)**
+  - This folder includes all of the reports and findings from competitive audits on different platforms. 
 - **[Cyfrin Updraft Course Audits](https://github.com/JJScar/my-security-reviews/tree/master/cyfrin-course-audits)**
   - This folder includes all of the reports I wrote as part of the Cyfrin Updraft Smart Contract Secuirty Course.
 - **[First Flights](https://github.com/JJScar/my-security-reviews/tree/master/codehawks-first-flights)**
-  - This folder includes the reports I wrote as part of CodeHawks First Flights audits.
-- **[Competitive Audits](https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits)**
-  - This folder includes all of the reports and findings from competitive audits on different platforms.   
+  - This folder includes the reports I wrote as part of CodeHawks First Flights audits.  
 - **[Personal Favourites]**   
 
 ## Getting Involved
