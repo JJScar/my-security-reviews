@@ -9,6 +9,7 @@ Here, you will find audit reports and findings in work I have done in courses an
 | --------------- | -------- | ---------------------------------------------------------------------------------------------------- |                 
 | Collar Protocol |   DeFi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-11-collar-protocol |  
 |    Alchemix     |   Defi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-12-alchemix |
+|      Soon       |    L2    | https://github.com/JJScar/my-security-reviews/blob/master/competitive-audits/2024-12-soon/findings.md |
 
 ## Full Breakdown
 - **[Competitive Audits](https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits)**
