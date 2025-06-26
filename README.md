@@ -6,7 +6,8 @@ Here, you will find audit reports and findings in work I have done in courses an
 ## Featured Reports
 
 | Protocol Name   | Category |                                              Link to Report                                          |
-| --------------- | -------- | ---------------------------------------------------------------------------------------------------- |                 
+| --------------- | -------- | ---------------------------------------------------------------------------------------------------- |         
+| Aquarius | AMM | https://github.com/JJScar/my-security-reviews/blob/master/competitive-audits/2025-06-aquarius/findings.md |
 |      Mezo       |   CDP    | https://github.com/JJScar/my-security-reviews/blob/master/competitive-audits/2025-04-mezo/findings.md |
 | Collar Protocol |   DeFi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-11-collar-protocol |  
 |    Alchemix     |   Defi   | https://github.com/JJScar/my-security-reviews/tree/master/competitive-audits/2024-12-alchemix |
