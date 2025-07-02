@@ -434,3 +434,56 @@ fn ensure_not_paused(e: &Env) {
     }
 }
 ```
+
+## [I-4] Wrong Doc Comments In `liquidity_pool_router::configure_init_pool_payment`
+### Summary
+The `configure_init_pool_payment` function sets deployment payment parameters for both standard and stableswap pools, but the comment above the function incorrectly states that it only affects stableswap pools.
+
+### Finding Description
+The doc comment suggests the function is limited to stableswap pool configuration. However, it sets values that affect both stableswap and standard pools, including:
+
+- The payment token
+- The payment amounts for both pool types
+- The recipient address
+
+This mismatch can lead to misconfiguration or misunderstanding by integrators and protocol maintainers.
+
+### Impact Explanation
+This does not affect core protocol safety but introduces a risk of operational error or misconfiguration if trusted users misunderstand the function’s purpose.
+
+### Likelihood Explanation
+Very likely to cause confusion among new integrators or DAO admins relying on doc comments and not reading code.
+
+### Recommendation
+Update the doc comment to accurately reflect the function’s purpose:
+```rust
+// Configures the pool deployment payment for both standard and stableswap pools.
+//
+// # Arguments
+//
+// * `admin` - The address of the admin.
+// * `token` - The address of the token.
+// * `standard_pool_amount` - The amount of the standard pool token.
+// * `stable_pool_amount` - The amount of the stableswap pool token.
+// * `to` - The address to send the payment to.
+```
+
+## [I-5] Missing Event Emissions On Critical Methods
+### Summary
+Critical methods should emit events upon using them, as it provides easier monitoring of the system. In a few places in the system, there seems to be missing event emissions.
+
+### Finding Description
+Found Instances:
+
+- `liquidity_pool_router::set_liquidity_calculator`
+- `liquidity_pool_router::init_admin`
+- `liquidity_pool_router::set_reward_token`
+
+### Impact Explanation
+Lack of an event does not compromise protocol correctness, but it limits transparency. Off-chain indexers, dashboards, and audit tools cannot detect or notify stakeholders when the liquidity calculator changes. This increases operational risk, especially in the case of misconfiguration or compromised admin keys.
+
+### Likelihood Explanation
+When changes do occur, they are highly sensitive and need to be observable for operational and security purposes. The absence of an event increases the chance that such changes go unnoticed.
+
+### Recommendation
+Emit a clear events when critical methods are used.
